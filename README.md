@@ -12,7 +12,7 @@
 
 Meu espírito é livre e apaixonado por esportes radicais, moda, viagens, museus, boa comida e, é claro, muita resenha. Se você também curte esse combo de diversão e conhecimento, vamos trocar ideias e aventuras por aqui!
 <br>
- Acompanhe todos os meus hobbies <a href="https://br.pinterest.com/rayanebonheur/">(@rayanebonheur)</a>.</p>
+ 
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
