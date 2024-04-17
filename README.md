@@ -7,10 +7,9 @@
     <span>Rayane Bonheur</span>
 </h1>
 
-<p align="justify"> Sou pernambucana, no incrível país chamado Pernambuco! Trabalho como software engineer, mas não se engane, sou muito mais que isso. 
-    Me chamo Rayane Bonheur e sou uma mistura de tecnologia, moda e aventura. Quando não estou codificando, estou posando como modelo fotográfica ou galopando como uma verdadeira Amazonas nas aulas de hipismo.
+<p align="justify"> Recifense, no incrível país chamado Pernambuco! Trabalho como software engineer. Sou uma mistura de tecnologia, moda e aventura. Quando não estou codificando, estou posando como modelo fotográfica ou galopando como uma verdadeira amazonas nas aulas de hipismo.
 
-Meu espírito é livre e apaixonado por esportes radicais, moda, viagens, museus, boa comida e, é claro, muita resenha. Se você também curte esse combo de diversão e conhecimento, vamos trocar ideias e aventuras por aqui!
+Meu espírito é livre e apaixonado por esportes radicais, moda, viagens, museus, boa comida e muita resenha. Se você também curte esse combo de diversão e conhecimento, vamos trocar ideias e aventuras por aqui!
 <br>
  
 <!--
