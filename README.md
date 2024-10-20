@@ -19,6 +19,7 @@ Meu espírito é livre e apaixonado por esportes radicais, moda, viagens, museus
 <h3 align="left">Connect with me</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/rayane-bonheur-83477b79/)
+[![Youtube](https://img.shields.io/badge/-Youtube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF)](https://www.youtube.com/@rayanebonheur)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/rayanebonheur/)
 [![Pinterest](https://img.shields.io/badge/-Pinterest-000?style=for-the-badge&logo=pinterest&logoColor=FF00F6&color:FFF)](https://www.pinterest.com/rayanebonheur/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-000?style=for-the-badge&logo=kaggle&logoColor=FF00F6&color:FFF)](https://www.kaggle.com/rayanebonheur/)
